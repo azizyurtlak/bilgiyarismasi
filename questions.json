@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Ali'nin yasi kactir?",
+    "answers": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Turkiye ne zaman kuruldu?",
+    "answers": [
+      1920,
+      1921,
+      1922,
+      1923
+    ],
+    "correct": 3
+  }
+]
